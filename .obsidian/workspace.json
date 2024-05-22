@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "e2d5bbbab83f80b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7737c14ab277662",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3e71c3bc61d1f48",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd9a07626036da2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9964ab98de342c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "735d8cc87e3e7f8b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "73dc2d34cc423ab8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ff205f5fca08eb4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "50cabc67b6a785f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad4fdcd54a5a1524",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2588df400291fc05",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b92a15c57fac8e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75463a6f7fe8f328",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "354dc40aa561c7b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b3e71c3bc61d1f48",
+  "lastOpenFiles": [
+    "README.md",
+    "主页.canvas",
+    "任务.md",
+    "5. 表达/博客/一种实用新型 Obsidian 实践之构建我的第二大脑 🧠.md",
+    "5. 表达/表达.md",
+    "5. 表达/博客",
+    "5. 表达/README.md",
+    "5. 表达",
+    "4. 存档/Template.md",
+    "4. 存档/README.md",
+    "4. 存档",
+    "3. 资源/PARA模版/模版/通用模版.md",
+    "3. 资源/PARA模版/模版/捕获模版.md",
+    "3. 资源/知识管理/知识管理.README.md",
+    "3. 资源/摄影摄像/摄影摄像.README.md",
+    "3. 资源/PARA模版/模版",
+    "3. 资源/PARA模版/PARA模版.md",
+    "3. 资源/知识管理",
+    "3. 资源/摄影摄像",
+    "3. 资源/Template.md",
+    "3. 资源/README.md",
+    "3. 资源/PARA模版",
+    "3. 资源",
+    "2. 领域/阅读/阅读.md",
+    "2. 领域/同事工作/工作.README.md",
+    "2. 领域/个人品牌/个人品牌.README.md",
+    "2. 领域/阅读",
+    "2. 领域/同事工作",
+    "2. 领域/Template.md",
+    "2. 领域/README.md",
+    "1. 项目/obsidian模版分享/obsidian模版分享.md",
+    "1. 项目/Template.md",
+    "1. 项目/README.md",
+    "0. 周期笔记/2024/Daily/05/2024-05-01.md",
+    "0. 周期笔记/2024/Daily/04/2024-04-30.md",
+    "0. 周期笔记/2024/Daily/04/2024-04-29.md",
+    "0. 周期笔记/assets/README/image-20240522125855201.png",
+    "0. 周期笔记/2024/Weekly/2024-W18.md",
+    "-1. 捕获/assets/README/image-20240522124128178.png",
+    "-1. 捕获/assets/README/image-20240522124114589.png"
+  ]
+}

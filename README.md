@@ -1,5 +1,5 @@
 
-<p align="center">中文版本  |  <a title="English" href="https://github.com/studyz/obsidian-example-lifeos/blob/main/README.md">English Version</a></p>
+<p align="center">中文版本  |  <a title="English" href="https://github.com/studyz/obsidian-CODE-example/blob/main/README.md">English Version</a></p>
 
 
 <div class="payment-logos"> 
